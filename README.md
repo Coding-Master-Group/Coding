@@ -21,4 +21,3 @@ Backjoon Online Judge 홈페이지 : https://www.acmicpc.net/
 
 이것이 코딩테스트다 with 파이썬 참고
 
-a
